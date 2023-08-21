@@ -1,0 +1,13 @@
+{
+    "api_credentials": {
+        "api_key": "575f640559e0a8937ac6a29e3fcb5c36",
+        "city": "London"
+    },
+    "sqlserver_credentials": {
+        "driver" : "{ODBC Driver 17 for SQL Server}",
+        "server" : "172.23.165.195",
+        "database" : "weather",
+        "username" : "sa",
+        "password" : "Jihan8aug78"
+    }
+}
